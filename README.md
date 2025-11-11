@@ -52,7 +52,7 @@ Primeiro painel:
 -  Não houve saldo de gols negativo ao longo dos anos (mas houve -1 no brasileiro de 2018 e 2023)
 - Em 2018 (logo após ser campeão brasileiro) houve mais derrotas que vitórias 
 - Com 227 jogos em casa, houve 55% de vitória, com saldo de gols de 167 gols pró
--   
+  
 obs1: o aproveitamento é calculado pela porcentagem de pontos conquistados pela quantitade de pontos possíveis e o saldo de gols (gols marcados menos gols sofridos)
 
 *O que faz um time campeão? (Com dados)*
@@ -65,3 +65,5 @@ obs1: o aproveitamento é calculado pela porcentagem de pontos conquistados pela
 
 
 > OBS2: Os dados da público em 2020 e 2021 estão faltando devido a pandemia que não havia ninguém nos estádios.
+
+<img src="https://github.com/jeanmatheuss/analise-corinthians/blob/main/img/dash_14-24-gif.gif?raw=true" alt="dash-gif">
